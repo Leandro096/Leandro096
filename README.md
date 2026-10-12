@@ -3,7 +3,7 @@
   <img width="100%" src="./assets/header.svg" alt="Leandro J. Garcia - Fullstack & Mobile Developer, DevOps" />
 
   <a href="https://github.com/Leandro096">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=I+build+web+and+mobile+platforms+that+scale;React+%C2%B7+Angular+%C2%B7+Flutter+%C2%B7+ASP.NET+Core+%C2%B7+Node.js;CI%2FCD+pipelines+that+cut+deploy+times+by+73%25;Remote+worldwide+%C2%B7+Based+in+LATAM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=I+build+web+and+mobile+platforms+that+scale;React+%C2%B7+Angular+%C2%B7+Flutter+%C2%B7+ASP.NET+Core+%C2%B7+Node.js;CI%2FCD+pipelines+that+cut+deploy+times;Remote+worldwide+%C2%B7+Based+in+LATAM" alt="Typing SVG" />
   </a>
 
   <br/>
