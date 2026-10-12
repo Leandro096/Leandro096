@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Leandro J. Garcia - Fullstack and Mobile Developer, DevOps">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0B3A57"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1000" height="240" rx="16"/></clipPath>
+  </defs>
+  <style>
+    .name{font:700 56px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff;opacity:0;animation:rise 1.2s ease-out .2s forwards}
+    .role{font:500 22px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#38BDF8;opacity:0;animation:rise 1.2s ease-out .8s forwards;letter-spacing:.5px}
+    .tag{font:400 15px ui-monospace,Menlo,Consolas,monospace;fill:#9CA3AF;opacity:0;animation:rise 1.2s ease-out 1.4s forwards}
+    .bar{transform-origin:left;transform:scaleX(0);animation:grow 1s ease-out 1.2s forwards}
+    .w1{animation:drift 9s ease-in-out infinite alternate}
+    .w2{animation:drift 13s ease-in-out infinite alternate-reverse}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes grow{to{transform:scaleX(1)}}
+    @keyframes drift{from{transform:translateX(-60px)}to{transform:translateX(60px)}}
+  </style>
+  <g clip-path="url(#round)">
+    <rect width="1000" height="240" fill="url(#bg)"/>
+    <path class="w1" d="M-100 190 C 100 150, 250 230, 450 190 S 800 150, 1100 200 L1100 260 L-100 260Z" fill="#38BDF8" opacity=".18"/>
+    <path class="w2" d="M-100 205 C 150 180, 300 245, 520 210 S 850 175, 1100 215 L1100 260 L-100 260Z" fill="#818CF8" opacity=".18"/>
+  </g>
+  <text class="name" x="500" y="104" text-anchor="middle">Leandro J. Garcia</text>
+  <rect class="bar" x="440" y="124" width="120" height="4" rx="2" fill="url(#accent)"/>
+  <text class="role" x="500" y="162" text-anchor="middle">Fullstack &amp; Mobile Developer · DevOps</text>
+  <text class="tag" x="500" y="192" text-anchor="middle">Open to remote work worldwide · Based in LATAM</text>
+</svg>
