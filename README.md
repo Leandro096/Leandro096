@@ -56,12 +56,12 @@ I'm a **fullstack and mobile software engineer** specialized in **institutional 
 
 | Project | What I did | Tech |
 |---|---|---|
-| **GET – Technology Equipment Management** <br/> *Ministry of Education, DR* | Component and tooling platform that unified the institution's products and sped up delivery. | React · ASP.NET Core · SQL Server · Azure DevOps |
+| **GET – Technology Equipment Management** <br/> *Ministry of Education, DR* | Component and tooling platform that unified the institution's products and sped up delivery. | React · ASP.NET Core · SQL Server · Azure DevOps · MinIO |
 | **CI/CD pipelines** <br/> *Ministry of Education, DR* | Azure DevOps workflow strategy, parallelized CI jobs, Rust to speed up builds, MinIO for project documentation. **-73% deployment time.** | Azure DevOps · Rust · MinIO |
 | **SIGERD database performance** <br/> *Ministry of Education, DR* | 3NF normalization, stored procedures and indexes. | SQL Server |
 | **Cookie consent tool** <br/> *Ministry of Education, DR* | Cross-product cookie management to comply with user-consent laws. | React · ASP.NET Core |
 | **Appointment system – Health Pastoral** <br/> *Volunteer* | FIFO and time-slot queues with scheduling and buffers. **-73% response time**, 5,000+ patients per day. | React · Express · MongoDB · SASS |
-| **Freelance systems** | Booking, supervised psychological tests, auto-repair shop management, billing, tracking and dashboards, some multilingual. | React · Express · MongoDB · .NET |
+| **Freelance systems** | Booking, supervised psychological tests, auto-repair shop management, billing, tracking and dashboards, some multilingual. | React · Express · MongoDB · .NET · SQL Server · MinIO |
 
 > 📌 Much of my work is institutional or private, so public repositories are limited.
 
